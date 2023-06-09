@@ -10,5 +10,5 @@ This repository presents a study on classifying data based on their characterist
 * The following figures illustrate the impact of variables. Additionally, a Uni-plot is included to validate the distribution of data across the two classes.
 <div style="display: flex;">
   <img src="https://github.com/AmenahALn/Classification/blob/main/variables.JPG" alt="First Image" style="width: 40%;">
-  <img src="https://github.com/AmenahALn/Classification/blob/main/class.JPG" alt="Second Image" style="width: 45%;">
+  <img src="https://github.com/AmenahALn/Classification/blob/main/class.JPG" alt="Second Image" style="width: 47%;">
 </div>
