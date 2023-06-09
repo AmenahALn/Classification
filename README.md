@@ -8,3 +8,7 @@ This repository presents a study on classifying data based on their characterist
 * We provide R2 values, indicating the variance explained by the two cluster models for each indicator. 
 * The analysis in this project relied on the combined usage of MATLAB and R for data processing, modeling, and statistical computations.
 * The following figures illustrate the impact of variables. Additionally, a Uni-plot is included to validate the distribution of data across the two classes.
+<div style="display: flex;">
+  <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/return.JPG" alt="First Image" style="width: 40%;">
+  <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/return_2.JPG" alt="Second Image" style="width: 40%;">
+</div>
