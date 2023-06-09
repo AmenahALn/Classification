@@ -15,5 +15,6 @@ This repository presents a study on classifying data based on their characterist
 #### 2. Classification DNA data:
 DIN barcodes were classified and compared with barcodes of healthy and sick subjects to assess the impact of smoking on the sample. The dataset consisted of over 800,000 entries. The analysis in this project relied on the combined usage of __python__ and **R** for data processing, modeling, and statistical computations.
 * The following Figure illustrates the average_methylation of gene.
-<img src="https://github.com/AmenahALn/Classification/blob/main/Average_methylation.JPG" alt="Image" width="400" height="250">
-
+<img src="https://github.com/AmenahALn/Classification/blob/main/Average_methylation.JPG" alt="Image" width="430" height="250">
+* The following Figure illustrates the average_distrebution of methylation of gene.
+<img src="https://github.com/AmenahALn/Classification/blob/main/Average_methylation.JPG" alt="Image" width="430" height="250">
