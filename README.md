@@ -17,5 +17,5 @@ DIN barcodes were classified and compared with barcodes of healthy and sick subj
 * The following Figure illustrates the average_methylation of gene.
 <img src="https://github.com/AmenahALn/Classification/blob/main/Average_methylation.JPG" alt="Image" width="430" height="250">
 
-* The following Figure illustrates the average_distrebution of methylation of gene.
-<img src="https://github.com/AmenahALn/Classification/blob/main/Average_methylation.JPG" alt="Image" width="430" height="250">
+* The figure illustrates the distribution of methylation across different samples, with the methylation rate for each sample. This provides a visual representation of the similarity between samples based on their methylation patterns represented by a dark green color in the corresponding histogram. 
+<img src="https://github.com/AmenahALn/Classification/blob/main/Data_2%20-%20Distribution.jpg" alt="Image" width="430" height="250">
